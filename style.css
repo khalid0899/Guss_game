@@ -1,0 +1,21 @@
+
+.numberGame{
+      text-align: center;
+}
+
+.playerinputOne,.playerinputtwo{
+      width: 260px;
+      height: 40px;
+      outline: 0;
+}
+.playerButtonone,.playerButtontwo{
+      width: 60px;
+      height: 46px;
+      margin-left: -4px;
+      background: maroon;
+      border: 0;
+      color: #fff;
+}
+.playertwo{
+      display: none;
+}
